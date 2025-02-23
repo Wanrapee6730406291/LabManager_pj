@@ -35,7 +35,8 @@
 .booking2 {
   color: #1c2b38;
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 18px;
   line-height: 18px;
   font-weight: 400;
@@ -53,7 +54,8 @@
 .time-start {
   color: var(--main-dark, #1c2b38);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 15px;
   line-height: 18px;
   font-weight: 400;
@@ -81,7 +83,8 @@
 .select-time-start {
   color: var(--dark-80, #495560);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 10px;
   line-height: 18px;
   font-weight: 400;
@@ -95,7 +98,8 @@
 .time-end {
   color: var(--main-dark, #1c2b38);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 15px;
   line-height: 18px;
   font-weight: 400;
@@ -123,7 +127,8 @@
 .select-time-end {
   color: var(--dark-80, #495560);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 10px;
   line-height: 18px;
   font-weight: 400;
@@ -147,7 +152,8 @@
 .confirm {
   color: var(--white, #ffffff);
   text-align: center;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 15px;
   font-weight: 400;
   position: relative;
@@ -169,7 +175,8 @@
 .date {
   color: var(--main-dark, #1c2b38);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 20px;
   line-height: 18px;
   font-weight: 400;
@@ -202,7 +209,8 @@
 .no {
   color: var(--main-dark, #1c2b38);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 20px;
   line-height: 18px;
   font-weight: 400;
@@ -243,7 +251,8 @@
 .equipments {
   color: var(--main-dark, #1c2b38);
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 20px;
   line-height: 18px;
   font-weight: 400;
@@ -288,7 +297,8 @@
 .log-in {
   color: #ffffff;
   text-align: left;
-  font-family: "ABeeZee-Regular", sans-serif;
+  /* font-family: "ABeeZee-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 20px;
   font-weight: 400;
   position: absolute;
@@ -298,7 +308,8 @@
 .lab-manager {
   color: #344002;
   text-align: left;
-  font-family: "TacOne-Regular", sans-serif;
+  /* font-family: "TacOne-Regular", sans-serif; */
+  font-family: "Tac One", serif;
   font-size: 64px;
   font-weight: 400;
   position: absolute;
@@ -336,7 +347,8 @@
 }
 .equipments-ts-6090-l {
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -349,35 +361,40 @@
 }
 .equipments-ts-6090-l-span {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span2 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span3 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span4 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span5 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -386,42 +403,48 @@
   color: #bd300d;
   list-style-type: disc;
   padding-left: 1em;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span7 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span8 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span9 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-ts-6090-l-span10 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit {
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -434,35 +457,40 @@
 }
 .equipments-mit-span {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span2 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span3 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span4 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span5 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -471,35 +499,40 @@
   color: #bd300d;
   list-style-type: disc;
   padding-left: 1em;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span7 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span8 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-mit-span9 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-sctech {
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -511,35 +544,40 @@
 }
 .equipments-sctech-span {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-sctech-span2 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-sctech-span3 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-sctech-span4 {
   color: #bd300d;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-sctech-span5 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -548,14 +586,16 @@
   color: #bd300d;
   list-style-type: disc;
   padding-left: 1em;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
 }
 .equipments-sctech-span7 {
   color: #000000;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 17px;
   line-height: 18px;
   font-weight: 400;
@@ -599,7 +639,8 @@
 .home {
   color: #bd300d;
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 32px;
   font-weight: 400;
   position: absolute;
@@ -632,7 +673,8 @@
 .label {
   color: #ffffff;
   text-align: left;
-  font-family: "TiltWarp-Regular", sans-serif;
+  /* font-family: "TiltWarp-Regular", sans-serif; */
+  font-family: "Tilt Warp", serif;
   font-size: 40px;
   font-weight: 400;
   position: relative;
@@ -654,5 +696,17 @@
   top: 582px;
   object-fit: cover;
   aspect-ratio: 1;
+}
+
+.tac-one-regular {
+  font-family: "Tac One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.tilt-warp {
+  font-family: "Tilt Warp", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
